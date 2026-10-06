@@ -1,0 +1,19 @@
+{
+  "name": "Bar de Pueblo Tycoon",
+  "short_name": "Bar de Pueblo",
+  "description": "Juego de gestión: lleva el bar del pueblo con precios, género, mejoras, camareros y los eventos del calendario.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#9a3412",
+  "theme_color": "#9a3412",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
